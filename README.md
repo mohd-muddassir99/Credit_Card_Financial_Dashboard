@@ -100,7 +100,7 @@ Thanks for checking out my Credit Card Transaction Dashboard project! Your inter
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="65px" alt="Access Dataset"><br>
         LinkedIn
     </a>
-</p> <br>
+
    | Mohd Muddassir | </a> <br>
 Don't forget to follow and star ⭐ the repository if you find it valuable.
 </div>
