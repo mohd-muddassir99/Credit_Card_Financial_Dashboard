@@ -97,6 +97,20 @@ Incorporated KPIs such as total revenue, transaction amount, interest earned, co
 | **Revenue by Expenses Type**         | Identify where Customers uses the Credit Cards.                |
 | **Revenue by Customer Job**          | Which Occupied customers using credit cards mostly .           |
 
+
+## Dashboard🔲 :-- 
+
+- **Credit Card Transaction Dashboard**
+  
+![Credit Card Transaction (1)](https://github.com/mohd-muddassir99/Credit_Card_Financial_Dashboard/assets/153819384/9e7e4f45-c201-4476-afdb-64321bad0b4d)
+
+- **Credit Card Customer Analysis Dashboard**
+
+
+![CreditCardCustomer](https://github.com/mohd-muddassir99/Credit_Card_Financial_Dashboard/assets/153819384/992121c2-9ee8-423a-96e5-b9abb51c6722)
+
+
+
 ## Project Insights🥇 :-
 
 - **Revenue Trends**: Identified revenue patterns across different customer demographics and transaction types, helping to pinpoint high-value customer segments.
