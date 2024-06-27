@@ -3,7 +3,7 @@
 In this project, I developed a comprehensive Credit Card Transaction Dashboard using SQL and Power BI to analyze and visualize credit card transactions and customer data. The project involved several key stages, including data importation, database connection setup, data understanding and analysis using DAX queries, and dashboard creation with various Key Performance Indicators (KPIs) and visualizations.
 
 
-## Project Objective :- 
+## Project Objective⛳ :- 
 To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
 
 - **Data Integration and Management**: Seamlessly integrate transaction and customer data into a unified platform for efficient analysis.
@@ -17,7 +17,7 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 - **Customer Segmentation**: Segment customers based on demographics and behavior to tailor marketing strategies and improve customer engagement.
 
 
-## What I did in This Project :-
+## What I did in This Project🙆‍♂️ :-
 
 - **Data Importation**: Imported transaction and customer datasets into a SQL database.
 Ensured data integrity and accuracy during the import process.
