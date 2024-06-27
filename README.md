@@ -4,13 +4,7 @@ In this project, I developed a comprehensive Credit Card Transaction Dashboard u
 
 
 ## Project Objective :- 
-To develop a comprehensive credit 
-card weekly dashboard that 
-provides real-time insights into key 
-performance metrics and trends, 
-enabling stakeholders to monitor 
-and analyze credit card operations 
-effectively.
+To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
 
 - **Data Integration and Management**: Seamlessly integrate transaction and customer data into a unified platform for efficient analysis.
 
