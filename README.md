@@ -176,7 +176,7 @@ Thanks for checking out my Credit Card Transaction Dashboard project! Your inter
         LinkedIn
     </a>
 
-   | Mohd Muddassir | </a> <br>
+   | **Mohd Muddassir** | </a> <br>
 Don't forget to follow and star ⭐ the repository if you find it valuable.
 </div>
 
