@@ -153,7 +153,7 @@ View the **Credit Card Customer Analysis Dashboard** here:
         <td align="center" width="33%"><img alt="Power BI" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"/><br>Microsoft Power BI</td>
         <td align="center" width="33%"><img alt="Excel" width="35px" src="https://cdn.worldvectorlogo.com/logos/excel-4.svg"/><br>Microsoft Excel</td>
         <td align="center" width="33%"><img alt="DAX" width="50px" src="https://learn.microsoft.com/en-us/training/achievements/use-dax-power-bi-desktop.svg"/><br>DAX</td>
-        <td align="center" width="50%"><img alt="My SQl" width="100px" src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png"/><br>My SQL</td>
+        <td align="center" width="100%"><img alt="My SQl" width="100px" src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png"/><br>My SQL</td>
     </tr>
 </table>
 
