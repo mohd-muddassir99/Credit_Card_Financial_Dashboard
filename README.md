@@ -92,7 +92,7 @@ Incorporated KPIs such as total revenue, transaction amount, interest earned, co
 | **Revenue by Customer Job**          | Which Occupied customers using credit cards mostly .           |
 
 
-## Dashboard🔲 :- 
+## Dashboard :- 
 
 - **Credit Card Transaction Dashboard**
   
