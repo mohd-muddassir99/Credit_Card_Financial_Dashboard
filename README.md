@@ -17,7 +17,7 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 - **Customer Segmentation**: Segment customers based on demographics and behavior to tailor marketing strategies and improve customer engagement.
 
 
-## What I did in This Project🙆‍♂️:-
+## What I did in This Project🙆‍♂️ :-
 
 - **Data Importation**: Imported transaction and customer datasets into a SQL database.
 Ensured data integrity and accuracy during the import process.
