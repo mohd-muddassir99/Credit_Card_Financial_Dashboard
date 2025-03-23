@@ -1,6 +1,6 @@
 
 ## Introduction:- 
-In this project,I developed a comprehensive Credit Card Transaction Dashboard using SQL and Power BI to analyze and visualize credit card transactions and customer data. The project involved several key stages, including data importation, database connection setup, data understanding and analysis using DAX queries, and dashboard creation with various Key Performance Indicators (KPIs) and visualizations.
+In this project, I developed a comprehensive Credit Card Transaction Dashboard using SQL and Power BI to analyze and visualize credit card transactions and customer data. The project involved several key stages, including data importation, database connection setup, data understanding and analysis using DAX queries, and dashboard creation with various Key Performance Indicators (KPIs) and visualizations.
 
 
 ## Project Objective⛳ :- 
